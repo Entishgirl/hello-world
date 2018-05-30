@@ -1,0 +1,10 @@
+language: python
+python:
+  - "2.7"
+  - "3.4"
+#below is the command to install dependencies
+install:
+  -pip install .
+  -pip install tox
+#below is the command to install tox
+script: tox
