@@ -1,2 +1,2 @@
-# hello-world
-very first git hub repository
+
+[![Build Status](https://travis-ci.org/Entishgirl/hello-world.svg?branch=master)](https://travis-ci.org/Entishgirl/hello-world)
