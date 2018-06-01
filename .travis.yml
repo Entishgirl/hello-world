@@ -3,5 +3,7 @@ python:
   - "2.7"
   - "3.6"
 #below is the command to install dependencies
+install:
+  - pip install tox
 #below is the command to install tox
 script: tox
